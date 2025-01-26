@@ -1,0 +1,15 @@
+streamlit
+faiss-cpu
+langchain
+langchain-community
+openai
+tiktoken
+python-dotenv
+unstructured
+libmagic
+python-magic
+python-magic-bin
+sentence-transformers
+ipykernel
+numpy
+pandas
