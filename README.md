@@ -10,7 +10,7 @@ This project provides a robust research bot designed to assist users in summariz
 
 #### Clone the repository
 ```
-https://github.com/fosetorico/article_research_bot.git
+git clone https://github.com/fosetorico/article_research_bot.git
 ```
 
 #### Create a conda environment after opening the repository
