@@ -24,7 +24,7 @@ conda activate your-chosen-name
 
 #### 3. Rename the '.env.example' file to '.env' and insert your OpenAI key
 
-#### 4. install the requirements
+#### 4. Install the requirements
 ```
 pip install -r requirements.txt
 ```
