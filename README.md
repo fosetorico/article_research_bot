@@ -8,12 +8,12 @@ This project provides a robust research bot designed to assist users in summariz
 
 ## Steps to run this Project?
 
-#### Clone the repository
+#### 1. Clone the repository
 ```
 git clone https://github.com/fosetorico/article_research_bot.git
 ```
 
-#### Create a conda environment after opening the repository
+#### 2. Create a conda environment after opening the repository
 ```
 conda create -n your-chosen-name python=3.10 -y
 ```
@@ -22,12 +22,14 @@ conda create -n your-chosen-name python=3.10 -y
 conda activate your-chosen-name
 ```
 
-#### install the requirements
+#### 3. Rename the '.env.example' file to '.env' and insert your OpenAI key
+
+#### 4. install the requirements
 ```
 pip install -r requirements.txt
 ```
 
-#### Finally run the following command
+#### 5. Finally run the following command
 ```
 streamlit run app.py
 ```
